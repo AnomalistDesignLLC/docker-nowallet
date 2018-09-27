@@ -1,2 +1,6 @@
 # docker-nowallet
-Dockerized NoWallet API
+Dockerized NoWallet console
+
+`docker-compose up -d tor`
+`docker-compose run nowallet`
+
